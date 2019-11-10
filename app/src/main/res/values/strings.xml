@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NeurophProject</string>
+    <string name="select_game_mode">Select game mode</string>
+    <string name="bank_job">Bank Job</string>
+    <string name="free_chat">Free chat</string>
+    <string name="teach_mode">Teach mode</string>
 </resources>
