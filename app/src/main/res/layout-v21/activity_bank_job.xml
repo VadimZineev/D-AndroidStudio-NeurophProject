@@ -15,6 +15,7 @@
         android:layout_height="wrap_content"
         android:layout_above="@id/input_block"
         android:orientation="vertical"
+        android:layout_marginBottom="10dp"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true">
 
@@ -36,9 +37,9 @@
             android:layout_toStartOf="@id/fab"
             android:layout_marginLeft="5dp"
             android:layout_marginStart="5dp"
-            android:backgroundTint="@color/colorPrimaryDark">
+            android:backgroundTint="@color/colorPrimary" />
 
-        </EditText>
+
 
         <com.google.android.material.floatingactionbutton.FloatingActionButton
             android:id="@+id/fab"
